@@ -1,4 +1,4 @@
-# windows-activator
+# microsoft-office-activator
 **This will help to activate the microsoft office 2019 using usig batch file**
 
 ## Method 1
